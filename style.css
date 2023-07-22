@@ -1,0 +1,19 @@
+.bg {
+    background-image: url("assets/transparentSalad.png");
+    /* width: auto; */
+    height: 600px;
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.h1 {
+    font-size: 80px;
+}
+
+.border-2 {
+    border-width: 3px;
+}
+
+.modal-body {
+    align-content: center;
+}
